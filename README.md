@@ -45,7 +45,7 @@ Claude Code will detect the skill automatically. No configuration needed.
 
 ## What It Does
 
-This skill turns Claude into a Design Thinking coach, facilitator, and artifact generator. Tell Claude what phase you're in and what you need — it adapts to your role, context, and timeline.
+This skill turns Claude into a Design Thinking coach, facilitator, and artifact generator. Tell Claude what phase you're in and what you need: it adapts to your role, context, and timeline.
 
 ```
 "I need to plan empathy interviews for a mobile banking redesign"
@@ -70,7 +70,7 @@ Claude responds with structured guidance, ready-to-use artifacts, facilitation s
 | 5 | 🧪 **Test** | Does this work for real people? | Validated insights, iteration priorities |
 | 6 | 🚀 **Implement** | How do we get this to users? | Shipped solution, adoption plan |
 
-> The process is non-linear by design. Looping back is not failure — it is the methodology working as intended.
+> The process is non-linear by design. Looping back is not failure: it is the methodology working as intended.
 
 
 ---
@@ -85,7 +85,7 @@ Product designers, UX researchers, UI designers, service designers, and product 
 - Guides handoff documentation that preserves design intent through implementation
 
 ### 🚀 Entrepreneurs & Startups
-Founders using Design Thinking for early-stage customer discovery, pre-launch validation, and lean iteration — before writing a line of code.
+Founders using Design Thinking for early-stage customer discovery, pre-launch validation, and lean iteration: before writing a line of code.
 
 - Maps directly to Lean Startup: Build-Measure-Learn ↔ Prototype-Test-Iterate
 - Addresses founder bias: the failure mode of building what you want, not what users need
@@ -156,7 +156,7 @@ The most effective way to use this skill is to describe what phase you're in and
 
 ---
 
-### Simple — Single artifact or phase
+### Simple: Single artifact or phase
 
 **Generate an empathy map:**
 ```
@@ -180,7 +180,7 @@ was taken remotely because the phone-call system creates daily
 anxiety she cannot resolve."
 Give me 10 How Might We questions for ideation.
 ```
-→ Claude returns a prioritized list at the right scope — not too narrow (solution-prescribing), not too broad (useless).
+→ Claude returns a prioritized list at the right scope: not too narrow (solution-prescribing), not too broad (useless).
 
 **Choose prototype fidelity:**
 ```
@@ -203,11 +203,11 @@ when someone gets stuck.
 Is this a good problem statement?
 "Users need a better dashboard because the current one is confusing."
 ```
-→ Claude diagnoses whether it's human-centered, solution-adjacent, or too vague — and rewrites it correctly.
+→ Claude diagnoses whether it's human-centered, solution-adjacent, or too vague: and rewrites it correctly.
 
 ---
 
-### Intermediate — Multi-step or role-specific
+### Intermediate: Multi-step or role-specific
 
 **Synthesize research into a problem statement:**
 ```
@@ -223,7 +223,7 @@ from what I found.
 We have 8 people, 90 minutes, and this HMW question:
 "HMW help remote caregivers confirm medication was taken
 without burdening the patient?"
-Design the full session — methods, timing, warm-up,
+Design the full session: methods, timing, warm-up,
 and how we converge at the end.
 ```
 → Claude returns a complete agenda with facilitation instructions, materials list, a warm-up activity, brainstorm rounds, and a structured convergence method.
@@ -250,11 +250,11 @@ We have one week before presenting a direction to leadership.
 We haven't spoken to any users yet. What's the minimum viable
 Design Thinking process we should run in 5 days?
 ```
-→ Claude returns a compressed day-by-day plan — which phases to abbreviate, which to protect, and what to skip at your own risk.
+→ Claude returns a compressed day-by-day plan: which phases to abbreviate, which to protect, and what to skip at your own risk.
 
 ---
 
-### Complex — Full project or workshop
+### Complex: Full project or workshop
 
 **Startup: validate before building anything**
 ```
@@ -263,7 +263,7 @@ forget to give their children daily medication, and it causes
 anxiety and real health risk. I want to build a mobile app.
 
 Before I write a single line of code or design a single screen,
-walk me through how to validate this properly — who to talk to,
+walk me through how to validate this properly: who to talk to,
 what to ask, what I'm trying to prove or disprove, and what I
 need to know before I'm justified in building anything.
 ```
@@ -272,7 +272,7 @@ need to know before I'm justified in building anything.
 **Service designer: redesign from zero research**
 ```
 I'm a service designer at a regional hospital. We've been asked
-to reduce patient no-shows for outpatient appointments —
+to reduce patient no-shows for outpatient appointments,
 currently running at 22%. We have no prior research on why
 patients don't show up.
 
@@ -280,7 +280,7 @@ I have 3 weeks and access to patients, frontline staff,
 and scheduling data. Walk me through the full process:
 who to talk to, what to observe, how to synthesize findings,
 and how to frame a problem statement that leads to a real
-solution — not just a reminder notification.
+solution: not just a reminder notification.
 ```
 → Claude maps the full 3-week process across all actors (not just patients), flags the most common assumption traps in no-show research, and produces a research plan with a synthesis workshop structure.
 
@@ -294,7 +294,7 @@ Our HMW question:
 "HMW make it easier for freelancers to follow up on overdue
 invoices without damaging the client relationship?"
 
-Give me the full day agenda — what we do each hour, what methods
+Give me the full day agenda: what we do each hour, what methods
 we use, what materials we need, how we handle the exec in the room,
 and what we should have produced by end of day.
 ```
@@ -307,7 +307,7 @@ at a retail bank. The brief is to "improve the mortgage experience."
 The problem: leadership already thinks the answer is a better app.
 
 My job is to help them see the full picture before they commit.
-Design the session — how I open it, how I build empathy without
+Design the session: how I open it, how I build empathy without
 them dismissing it, how I get them to a human-centered problem
 statement, and how I protect the ideation phase from their
 authority narrowing the options too early.
