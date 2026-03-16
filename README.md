@@ -45,7 +45,8 @@ Claude Code will detect the skill automatically. No configuration needed.
 
 ## What It Does
 
-This skill turns Claude into a Design Thinking coach, facilitator, and artifact generator. Tell Claude what phase you're in and what you need: it adapts to your role, context, and timeline.
+This skill turns Claude into a Design Thinking coach, facilitator and artifact generator. 
+Tell Claude what phase you're in and what you need: it adapts to your role, context, and timeline.
 
 ```
 "I need to plan empathy interviews for a mobile banking redesign"
