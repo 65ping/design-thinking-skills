@@ -7,19 +7,10 @@
 ```
 
 # Design Thinking
-### A Claude Code Skill
-
 **Human-centered design methodology, from user research to shipped solution.**
 Built for product designers, UX researchers, service designers, entrepreneurs, and business leaders.
 
-<br/>
 
-[![Version](https://img.shields.io/badge/version-1.0.0-0a0a0a?style=flat-square&labelColor=f5f0e8)](https://github.com/65ping/design-thinking)
-[![Phases](https://img.shields.io/badge/phases-6-0a0a0a?style=flat-square&labelColor=f5f0e8)](https://github.com/65ping/design-thinking/blob/main/SKILL.md)
-[![Audiences](https://img.shields.io/badge/audiences-3-0a0a0a?style=flat-square&labelColor=f5f0e8)](https://github.com/65ping/design-thinking/blob/main/SKILL.md#role-specific-application)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-0a0a0a?style=flat-square&labelColor=f5f0e8)](https://claude.ai/claude-code)
-
-<br/>
 
 </div>
 ---
