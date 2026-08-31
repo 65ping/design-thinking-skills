@@ -318,10 +318,4 @@ Every design decision balances three questions:
 
 Strong design lives at the intersection of all three.
 
----
 
-<div align="center">
-
-Built as a [Claude Code](https://claude.ai/claude-code) skill · v1.0.0
-
-</div>
